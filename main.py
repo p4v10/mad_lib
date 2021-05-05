@@ -16,7 +16,8 @@ st.write("""
 #### You can find this project on GitHub.
 [[Project](https://github.com/p4v10)]
 [[Original MAD LIB](http://www.redkid.net/cgi-bin/madlibs/videogames.pl)]
-# Description
+"""
+
 st.markdown("""
 This app is a simple MAD Lib.
 Provide some information and read a fun story!

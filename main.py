@@ -6,8 +6,7 @@ import pandas as pd
 # Page expands to full width
 st.set_page_config(layout="wide")
 
-# Logo
-st.image('img/img2.png', width = 300)
+
 # TITLE
 st.title('MAD LIB APPLICATION')
 
@@ -17,6 +16,8 @@ st.markdown("""
   \n   This app is a simple MAD Lib.
 Provide some information and read a fun story!
 """)
+# Logo
+st.image('img/img2.png', width = 300)
 
 # Sidebar header
 st.sidebar.header("Please provide your data")

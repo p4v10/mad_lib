@@ -12,14 +12,10 @@ st.image(image, width = 300)
 # TITLE
 st.title('MAD LIB APPLICATION')
 
-st.write("""
-#### You can find this project on GitHub.
-[[Project](https://github.com/p4v10)]
-[[Original MAD LIB](http://www.redkid.net/cgi-bin/madlibs/videogames.pl)]
-"""
-
 st.markdown("""
-This app is a simple MAD Lib.
+#### You can find this project on GitHub. [[Project](https://github.com/p4v10)]
+#### Original Mad Lib [[Original MAD LIB](http://www.redkid.net/cgi-bin/madlibs/videogames.pl)]
+  \n   This app is a simple MAD Lib.
 Provide some information and read a fun story!
 """)
 

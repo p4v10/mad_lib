@@ -2,10 +2,6 @@
 import streamlit as st
 import pandas as pd
 
-# Page expands to full width
-st.set_page_config(layout="wide")
-
-
 # TITLE
 st.title('MAD LIB APPLICATION')
 

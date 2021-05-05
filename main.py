@@ -6,9 +6,6 @@ import pandas as pd
 # Page expands to full width
 st.set_page_config(layout="wide")
 
-# Logo
-image = Image.open('img/img.png')
-st.image(image, width = 300)
 # TITLE
 st.title('MAD LIB APPLICATION')
 

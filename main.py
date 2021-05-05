@@ -11,8 +11,6 @@ st.markdown("""
   \n   This app is a simple MAD Lib.
 Provide some information and read a fun story!
 """)
-# Logo
-st.image('img/img2.png', width = 300)
 
 # Sidebar header
 st.sidebar.header("Please provide your data")

@@ -6,7 +6,7 @@ import pandas as pd
 st.title('MAD LIB APPLICATION')
 
 st.markdown("""
-#### You can find this project on GitHub. [[Project](https://github.com/p4v10)]
+#### You can find this project on GitHub. [[Project](https://github.com/p4v10/mad_lib/blob/main/main.py)]
 #### Original Mad Lib [[Original MAD LIB](http://www.redkid.net/cgi-bin/madlibs/videogames.pl)]
   \n   This app is a simple MAD Lib.
 Provide some information and read a fun story!
